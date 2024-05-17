@@ -1,5 +1,4 @@
 !include "ns.nsh"
-!include "nsisbass.nsh"
 OutFile "setup_sololevelingarise.exe"
 SetCompressor /SOLID lzma
 Section 01
