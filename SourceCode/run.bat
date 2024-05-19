@@ -1,3 +1,3 @@
 @echo off
 
-makensis main.nsi
+makensis /V4 main.nsi
